@@ -1,26 +1,14 @@
 ## Overview
-Repository with preconfigured maven project with junit5 configuration on a board.
+Mower kata, exercise for my candidacy at SOLENT.
 
-## Building
-...
-
-## Troubleshooting
-...
-
-## Release Notes
-Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
+## How to use
+- Verify you have the `input_instructions.txt` file in the root of the project
+- Execute the KataMowerMain class. The output will be displayed in the console.
+- You can also add a different input file name as an argument to the main method.
 
 ## Authors
-* Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
-
-## Acknowledgments
-...
-
-## Contributing
-Please, follow [Contributing](CONTRIBUTING.md) page.
-
-## Code of Conduct
-Please, follow [Code of Conduct](CODE_OF_CONDUCT.md) page.
+* Aymeric Bourdy - [aymeric-bourdy](https://github.com/AymericBdy)
+* Forked from the Maven template repository (https://github.com/template-repository/maven-template-repository) - Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
 
 ## License
 This project is Apache License 2.0 - see the [LICENSE](LICENSE) file for details
